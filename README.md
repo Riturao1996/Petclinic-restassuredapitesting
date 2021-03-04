@@ -1,4 +1,4 @@
-pre-requisites - download code and do setup from https://github.com/BestBuy/api-playground
+pre-requisites - download code and do setup from https://github.com/Riturao1996/Petclinic-restassuredapitesting.git
 
 Project has 2 sub-modules 
 
