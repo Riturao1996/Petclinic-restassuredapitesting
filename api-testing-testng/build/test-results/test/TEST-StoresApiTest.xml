@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoresApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-03T14:19:20" hostname="NLAMSHQ3975204L" time="2.563">
+  <properties/>
+  <testcase name="getStores_DefaultLimit_ShouldReturn10Results" classname="StoresApiTest" time="2.563">
+    <system-out><![CDATA[]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
